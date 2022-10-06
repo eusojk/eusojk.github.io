@@ -34,17 +34,20 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+          <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
         <h1>{{ site.title }}</h1>
 
         {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
+          <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
+
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+
         <br>
+        
         <email>{{ site.email }}</email>
 
         <br>
@@ -76,10 +79,11 @@
 
       <br>
 
-      <p><small>© {{ site.year_pub }} {{ site.title }}</small></p>
+      
 
       </section>
       <footer>
+        <p><small>© {{ site.year_pub }} {{ site.title }}</small></p>
         <p><small> 
           Theme inspired by <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.
         </small></p>
