@@ -170,29 +170,29 @@ papertitle {
     font-size: 100%;
   }
 
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: #20212b;
-        color: #dadbdf;
-    }
+// @media (prefers-color-scheme: dark) {
+//     body {
+//         background-color: #20212b;
+//         color: #dadbdf;
+//     }
 
-    autocolor{
-      color:#dadbdf;
-    }
+//     autocolor{
+//       color:#dadbdf;
+//     }
 
-    lightonly {
-      visibility: hidden;
-    }
+//     lightonly {
+//       visibility: hidden;
+//     }
 
-    darkonly {
-      visibility: visible;
-    }
+//     darkonly {
+//       visibility: visible;
+//     }
 
-    papertitle {
-    color:#eeeff0;
-    }
+//     papertitle {
+//     color:#eeeff0;
+//     }
 
-}
+// }
 
 @media (prefers-color-scheme: light) {
   body {
