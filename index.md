@@ -17,7 +17,7 @@ My primary research is multidisciplinary and lies at the intersection of Natural
 
 ## Publications
 
-### Peer-Reviewed
+### Peer-Reviewed Journal Articles
 
 1.  Banda, E., Rafiei, V., **Kpodo, J.**, Nejadhashemi, A. P., Singh, G., Das, N. N., Kc, R., & Diallo, A. (2024). **Millet yield estimations in Senegal: Unveiling the power of regional water stress analysis and advanced predictive modeling**. Agricultural Water Management, 291. [https://doi.org/10.1016/j.agwat.2023.108618](https://doi.org/10.1016/j.agwat.2023.108618).
        
