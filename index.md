@@ -15,15 +15,21 @@ My primary research is multidisciplinary and lies at the intersection of Natural
 - **[Feb. 2022]** description. 
 -->
 
-## Manuscripts & Scientific Journals
+## Publications
 
-Several ongoing projects in progress. Stay tuned!
+### Peer-Reviewed
 
-## Peer-Reviewed Publications
+1.  Banda, E., Rafiei, V., **Kpodo, J.**, Nejadhashemi, A. P., Singh, G., Das, N. N., Kc, R., & Diallo, A. (2024). **Millet yield estimations in Senegal: Unveiling the power of regional water stress analysis and advanced predictive modeling**. Agricultural Water Management, 291. https://doi.org/10.1016/j.agwat.2023.108618
+       
+2.	Ferriby, H., Nejadhashemi, A.P., Hernandez-Suarez, J.S., Moore, N., **Kpodo, J.**, Kropp, I., Eeswaran, R., Belton, B. and Haque, M.M., 2021. **Harnessing Machine Learning Techniques for Mapping Aquaculture Waterbodies in Bangladesh**. Remote Sensing, 13(23), p.4890.
 
-1.	Ferriby, H., Nejadhashemi, A.P., Hernandez-Suarez, J.S., Moore, N., **Kpodo, J.**, Kropp, I., Eeswaran, R., Belton, B. and Haque, M.M., 2021. **Harnessing Machine Learning Techniques for Mapping Aquaculture Waterbodies in Bangladesh**. Remote Sensing, 13(23), p.4890.
+3.	Eeswaran, R., Nejadhashemi, A.P., **Kpodo, J.**, Curtis, Z.K., Adhikari, U., Liao, H., Li, S.G., Hernandez-Suarez, J.S., Alves, F.C., Raschke, A. and Jha, P.K., 2021. **Quantification of resilience metrics as affected by conservation agriculture at a watershed scale**. Agriculture, Ecosystems & Environment, 320, p.107612.
 
-2.	Eeswaran, R., Nejadhashemi, A.P., **Kpodo, J.**, Curtis, Z.K., Adhikari, U., Liao, H., Li, S.G., Hernandez-Suarez, J.S., Alves, F.C., Raschke, A. and Jha, P.K., 2021. **Quantification of resilience metrics as affected by conservation agriculture at a watershed scale**. Agriculture, Ecosystems & Environment, 320, p.107612.
+
+### Presentations
+
+1. November 2023: Innovation Talk – Alliance For Modernizing African Agrifood Systems (AMAA) Conference, Online.
+
 
 ## Decision Support Tools
 - [QMRA DST](https://dsiweb.cse.msu.edu/waterquality/qmra)
