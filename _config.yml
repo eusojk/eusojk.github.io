@@ -19,7 +19,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 google_analytics: G-MNJEZHSNM4
 
 remote_theme: yaoyao-liu/minimal-light
-year_pub: 2022
+year_pub: 2024
 
 exclude:
   - Gemfile
