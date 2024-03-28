@@ -19,7 +19,7 @@ My primary research is multidisciplinary and lies at the intersection of Natural
 
 ### Peer-Reviewed
 
-1.  Banda, E., Rafiei, V., **Kpodo, J.**, Nejadhashemi, A. P., Singh, G., Das, N. N., Kc, R., & Diallo, A. (2024). **Millet yield estimations in Senegal: Unveiling the power of regional water stress analysis and advanced predictive modeling**. Agricultural Water Management, 291. https://doi.org/10.1016/j.agwat.2023.108618
+1.  Banda, E., Rafiei, V., **Kpodo, J.**, Nejadhashemi, A. P., Singh, G., Das, N. N., Kc, R., & Diallo, A. (2024). **Millet yield estimations in Senegal: Unveiling the power of regional water stress analysis and advanced predictive modeling**. Agricultural Water Management, 291. [https://doi.org/10.1016/j.agwat.2023.108618](https://doi.org/10.1016/j.agwat.2023.108618).
        
 2.	Ferriby, H., Nejadhashemi, A.P., Hernandez-Suarez, J.S., Moore, N., **Kpodo, J.**, Kropp, I., Eeswaran, R., Belton, B. and Haque, M.M., 2021. **Harnessing Machine Learning Techniques for Mapping Aquaculture Waterbodies in Bangladesh**. Remote Sensing, 13(23), p.4890.
 
