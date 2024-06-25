@@ -26,12 +26,21 @@ My primary research is multidisciplinary and lies at the intersection of Natural
 3.	Eeswaran, R., Nejadhashemi, A.P., **Kpodo, J.**, Curtis, Z.K., Adhikari, U., Liao, H., Li, S.G., Hernandez-Suarez, J.S., Alves, F.C., Raschke, A. and Jha, P.K., 2021. **Quantification of resilience metrics as affected by conservation agriculture at a watershed scale**. Agriculture, Ecosystems & Environment, 320, p.107612.
 
 
-### Presentations
 
-1. November 2023: Innovation Talk – Alliance For Modernizing African Agrifood Systems (AMAA) Conference, Online.
+## Presentations
+
+### Oral
+
+1. **Kpodo, J.**, P. Kordjamshidi, A.P. Nejadhashemi, 2024. Overcoming Challenges in Agricultural Extension with AgXQA and AgRoBERTa: A New Benchmark Dataset and Domain-Specific LLM. iEMSs 2024 Biennial Conference. East Lansing, USA.
+2. **Kpodo, J.**, P. Kordjamshidi, A.P. Nejadhashemi, 2024. Optimizing Digital Extension Platforms for Farmers: A Critical Analysis and Recommendations. iEMSs 2024 Biennial Conference. East Lansing, USA.
+3. Ghane, E., Y. Abdalaal, *J. Kpodo*, A.P. Nejadhashemi, M. Youssef, 2024. Development and Application of a DRAINMOD-based Decision-Support Tool for Optimizing the Performance of Saturated Buffers. iEMSs 2024 Biennial Conference. East Lansing, USA.
+4. Ghane, E., Y. Abdalaal, *J. Kpodo*, A.P. Nejadhashemi, M. Youssef, 2024. Application of a DRAINMOD-based Decision-Support Tool for Saturated Buffers. 79th SWCS International Annual Conference. Myrtle Beach, USA.
+5. **Kpodo, J.**, A.P. Nejadhashemi, 2023. Advancing Smart Agriculture: Challenges and Opportunities in Extension Platforms. Alliance For Modernizing African Agrifood Systems Conference, Online.
+
 
 
 ## Decision Support Tools
+- [Saturated Buffer Decision Support Tool (link coming soon)]()
 - [QMRA DST](https://dsiweb.cse.msu.edu/waterquality/qmra)
 - [Plumbing Water Quality Tool](https://dsiweb.cse.msu.edu/waterquality/water-quality)
 - [Rosetta DST](https://dsiweb.cse.msu.edu/rosetta/)
