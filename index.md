@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a dual Ph.D. student in Biosystems Engineering and Computer Science Engineering at Michigan State University. I am fortunate to be advised by [Dr. Pouyan Nejadhashemi](https://www.egr.msu.edu/bae/profiles/pouyan) and [Dr. Parisa Kordjamshidi](https://www.cse.msu.edu/~kordjams/).
+I am a dual Ph.D. candidate in Biosystems Engineering and Computer Science Engineering at Michigan State University. I am fortunate to be advised by [Dr. Pouyan Nejadhashemi](https://www.egr.msu.edu/bae/profiles/pouyan) and [Dr. Parisa Kordjamshidi](https://www.cse.msu.edu/~kordjams/).
 
 
 My primary research is multidisciplinary and lies at the intersection of Natural Language Processing (NLP), Recommender Systems, and Remote Sensing to solve challenging agricultural problems. For NLP, I am particularly focusing on Question and Answering, Information Retrieval, and Reading Comprehension.  A major part of my research work also revolves around the development of Decision Support Tools at the [Decision Support & Informatics Lab](https://dsiweb.cse.msu.edu/).
