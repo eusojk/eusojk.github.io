@@ -7,7 +7,7 @@ layout: homepage
 I am a dual Ph.D. candidate in Biosystems Engineering and Computer Science Engineering at Michigan State University. I am fortunate to be advised by [Dr. Pouyan Nejadhashemi](https://www.egr.msu.edu/bae/profiles/pouyan) and [Dr. Parisa Kordjamshidi](https://www.cse.msu.edu/~kordjams/).
 
 
-My primary research is multidisciplinary and lies at the intersection of Natural Language Processing (NLP), Recommender Systems, and Remote Sensing to solve challenging agricultural problems. For NLP, I am particularly focusing on Question and Answering, Information Retrieval, and Reading Comprehension.  A major part of my research work also revolves around the development of Decision Support Tools at the [Decision Support & Informatics Lab](https://dsiweb.cse.msu.edu/).
+My primary research is multidisciplinary and lies at the intersection of Natural Language Processing (NLP), Applied LLM, and Remote Sensing to solve challenging agricultural problems. For NLP problems, I am particularly focusing on Question and Answering, Information Retrieval, and .  A major part of my research work also revolves around the development of Decision Support Tools at the [Decision Support & Informatics Lab](https://dsiweb.cse.msu.edu/).
 
 
 <!-- ## News
@@ -19,8 +19,8 @@ My primary research is multidisciplinary and lies at the intersection of Natural
 
 ### Peer-Reviewed Journal Articles
 
-1. **Kpodo, J.**, Kordjamshidi, P., & Nejadhashemi, A. P. (2024). **AgXQA: A benchmark for advanced Agricultural Extension question answering**. Computers and Electronics in Agriculture, 225, 109349. [https://doi.org/10.1016/J.COMPAG.2024.109349](https://doi.org/10.1016/J.COMPAG.2024.109349)   
-
+1. **Kpodo, J.**, Kordjamshidi, P., & Nejadhashemi, A. P. (2024). **AgXQA: A benchmark for advanced Agricultural Extension question answering**. Computers and Electronics in Agriculture, 225, 109349. https://doi.org/10.1016/J.COMPAG.2024.109349
+   * [Paper](https://doi.org/10.1016/J.COMPAG.2024.109349) | [GitHub Repo](https://github.com/MSU-CECO/agxqa_benchmark_v1) | [AgXQAv1 HuggingFace Repo](https://huggingface.co/datasets/msu-ceco/agxqa_v1)
 2. Banda, E., Rafiei, V., **Kpodo, J.**, Nejadhashemi, A. P., Singh, G., Das, N. N., Kc, R., & Diallo, A. (2024). **Millet yield estimations in Senegal: Unveiling the power of regional water stress analysis and advanced predictive modeling**. Agricultural Water Management, 291. [https://doi.org/10.1016/j.agwat.2023.108618](https://doi.org/10.1016/j.agwat.2023.108618).
    
 3. Ferriby, H., Nejadhashemi, A.P., Hernandez-Suarez, J.S., Moore, N., **Kpodo, J.**, Kropp, I., Eeswaran, R., Belton, B. and Haque, M.M., 2021. **Harnessing Machine Learning Techniques for Mapping Aquaculture Waterbodies in Bangladesh**. Remote Sensing, 13(23), p.4890.
