@@ -30,13 +30,13 @@ My primary research is multidisciplinary and lies at the intersection of Natural
 
 ## Presentations
 
-### Oral
+### Conferences
 
-1. 2024: **Kpodo, J.**, P. Kordjamshidi, A.P. Nejadhashemi, 2024. Overcoming Challenges in Agricultural Extension with AgXQA and AgRoBERTa: A New Benchmark Dataset and Domain-Specific LLM. iEMSs 2024 Biennial Conference. East Lansing, USA.
-2. 2024: **Kpodo, J.**, A.P. Nejadhashemi, 2024. Optimizing Digital Extension Platforms for Farmers: A Critical Analysis and Recommendations. iEMSs 2024 Biennial Conference. East Lansing, USA.
-3. 2024: Ghane, E., Y. Abdalaal, *J. Kpodo*, A.P. Nejadhashemi, M. Youssef, 2024. Development and Application of a DRAINMOD-based Decision-Support Tool for Optimizing the Performance of Saturated Buffers. iEMSs 2024 Biennial Conference. East Lansing, USA.
-4. 2024: Ghane, E., Y. Abdalaal, *J. Kpodo*, A.P. Nejadhashemi, M. Youssef, 2024. Application of a DRAINMOD-based Decision-Support Tool for Saturated Buffers. 79th SWCS International Annual Conference. Myrtle Beach, USA.
-5. 2023: **Kpodo, J.**, A.P. Nejadhashemi, 2023. Advancing Smart Agriculture: Challenges and Opportunities in Extension Platforms. Alliance For Modernizing African Agrifood Systems Conference, Online.
+1. **Kpodo, J.**, P. Kordjamshidi, A.P. Nejadhashemi, 2024. Overcoming Challenges in Agricultural Extension with AgXQA and AgRoBERTa: A New Benchmark Dataset and Domain-Specific LLM. iEMSs 2024 Biennial Conference. East Lansing, USA.
+2. **Kpodo, J.**, A.P. Nejadhashemi, 2024. Optimizing Digital Extension Platforms for Farmers: A Critical Analysis and Recommendations. iEMSs 2024 Biennial Conference. East Lansing, USA.
+3. Ghane, E., Y. Abdalaal, *J. Kpodo*, A.P. Nejadhashemi, M. Youssef, 2024. Development and Application of a DRAINMOD-based Decision-Support Tool for Optimizing the Performance of Saturated Buffers. iEMSs 2024 Biennial Conference. East Lansing, USA.
+4. Ghane, E., Y. Abdalaal, *J. Kpodo*, A.P. Nejadhashemi, M. Youssef, 2024. Application of a DRAINMOD-based Decision-Support Tool for Saturated Buffers. 79th SWCS International Annual Conference. Myrtle Beach, USA.
+5. **Kpodo, J.**, A.P. Nejadhashemi, 2023. Advancing Smart Agriculture: Challenges and Opportunities in Extension Platforms. Alliance For Modernizing African Agrifood Systems Conference, Online.
 
 <!--
 ### Poster
