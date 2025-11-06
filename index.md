@@ -32,7 +32,8 @@ My primary research is multidisciplinary and lies at the intersection of Natural
 
 ### Invited Talks
 
-* **Kpodo, J.**, 2025. *AI for Agricultural Advisory Benchmarking Workshop*. Invited presentation, Gates Foundation, Seattle, WA.
+- November 2025. **Benchmarking LLMs for Agricultural Advisory: Insights from a Global Community of Practice.** Invited talk at the IFPRI Webinar Series “AI for Food Systems Research”, CGIAR/IFPRI, Virtual.
+- May 2025. **AI for Agricultural Advisory Benchmarking Workshop.** Invited talk at the Gates Foundation, Seattle, WA.
 
 
 ### Conferences
