@@ -9,6 +9,13 @@ I am a dual Ph.D. candidate in Computer Science  and Biosystems Engineering at M
 
 My primary research is multidisciplinary and lies at the intersection of Natural Language Processing (NLP) and Process-based Modeling, involving the design of Neurosymbolic systems (Domain-specific LLMs & Crop Models) to solve challenging agricultural problems related to water management. A major part of my research work also revolves around the development of Decision Support Tools at the [Decision Support & Informatics Lab](https://dsiweb.cse.msu.edu/).
 
+## Education
+
+**Michigan State University**, East Lansing, MI, USA  
+- Ph.D. in Biosystems and Agricultural Engineering, *Expected 2026*  
+- Ph.D. in Computer Science & Engineering, *Expected 2026*  
+- M.Sc. in Computer Science & Engineering, 2025  
+- B.Sc. in Computer Science & Engineering, 2020
 
 ## Publications
 
