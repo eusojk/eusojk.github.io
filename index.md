@@ -21,17 +21,23 @@ My primary research is multidisciplinary and lies at the intersection of Natural
 
 ### Peer-Reviewed Journal Articles
 
-1. **Kpodo, J.**, & Nejadhashemi, A. P. (2025). **Navigating challenges/opportunities in developing smart agricultural extension platforms: Multi-media data mining techniques**. Artificial Intelligence in Agriculture. [https://doi.org/10.1016/j.aiia.2025.04.001](https://doi.org/10.1016/j.aiia.2025.04.001).
+1. Abdalaal, Y., Ghane, E., **Kpodo, J.**, Nejadhashemi, A. P., Youssef, M. A., Falasy, A., Askar, M., Katuwal, S., Johnson, G. M., Rogovska, N., and Isenhart, T. M. **Development and testing of a
+DRAINMOD-based decision-support tool for designing and evaluating saturated buffers**. In: Agricultural Water Management 326 (2026), p. 110201. [https://doi.org/10.1016/j.agwat.2026.110201](https://doi.org/10.1016/j.agwat.2026.110201)
 
-2. Razavi, M. A., Nejadhashemi, A. P., Majidi, B., Razavi, H. S., **Kpodo, J.**, Eeswaran, R., Ciampitti, I., & Prasad, P. V. V. (2024). **Enhancing crop yield prediction in Senegal using advanced machine learning techniques and synthetic data**. Artificial Intelligence in Agriculture, 14, 99–114. [https://doi.org/10.1016/j.aiia.2024.11.005](https://doi.org/10.1016/j.aiia.2024.11.005)
+2. **Kpodo, J.**, Nejadhashemi, A. P., and Eeswaran, R. **Evaluating the logical and mathematical reasoning capabilities of language models in agricultural water management**. Computers and Electronics
+in Agriculture 326 (2026), p. 110201. [https://doi.org/10.1016/j.compag.2026.111533](https://doi.org/10.1016/j.compag.2026.111533)
 
-3. **Kpodo, J.**, Kordjamshidi, P., & Nejadhashemi, A. P. (2024). **AgXQA: A benchmark for advanced Agricultural Extension question answering**. Computers and Electronics in Agriculture, 225, 109349. https://doi.org/10.1016/J.COMPAG.2024.109349
+3. **Kpodo, J.**, & Nejadhashemi, A. P. (2025). **Navigating challenges/opportunities in developing smart agricultural extension platforms: Multi-media data mining techniques**. Artificial Intelligence in Agriculture. [https://doi.org/10.1016/j.aiia.2025.04.001](https://doi.org/10.1016/j.aiia.2025.04.001).
+
+4. Razavi, M. A., Nejadhashemi, A. P., Majidi, B., Razavi, H. S., **Kpodo, J.**, Eeswaran, R., Ciampitti, I., & Prasad, P. V. V. (2024). **Enhancing crop yield prediction in Senegal using advanced machine learning techniques and synthetic data**. Artificial Intelligence in Agriculture, 14, 99–114. [https://doi.org/10.1016/j.aiia.2024.11.005](https://doi.org/10.1016/j.aiia.2024.11.005)
+
+5. **Kpodo, J.**, Kordjamshidi, P., & Nejadhashemi, A. P. (2024). **AgXQA: A benchmark for advanced Agricultural Extension question answering**. Computers and Electronics in Agriculture, 225, 109349. https://doi.org/10.1016/J.COMPAG.2024.109349
    * [Paper](https://doi.org/10.1016/J.COMPAG.2024.109349) | [GitHub Repo](https://github.com/MSU-CECO/agxqa_benchmark_v1) | [AgXQAv1 HuggingFace Repo](https://huggingface.co/datasets/msu-ceco/agxqa_v1)
-4. Banda, E., Rafiei, V., **Kpodo, J.**, Nejadhashemi, A. P., Singh, G., Das, N. N., Kc, R., & Diallo, A. (2024). **Millet yield estimations in Senegal: Unveiling the power of regional water stress analysis and advanced predictive modeling**. Agricultural Water Management, 291. [https://doi.org/10.1016/j.agwat.2023.108618](https://doi.org/10.1016/j.agwat.2023.108618).
+6. Banda, E., Rafiei, V., **Kpodo, J.**, Nejadhashemi, A. P., Singh, G., Das, N. N., Kc, R., & Diallo, A. (2024). **Millet yield estimations in Senegal: Unveiling the power of regional water stress analysis and advanced predictive modeling**. Agricultural Water Management, 291. [https://doi.org/10.1016/j.agwat.2023.108618](https://doi.org/10.1016/j.agwat.2023.108618).
    
-5. Ferriby, H., Nejadhashemi, A.P., Hernandez-Suarez, J.S., Moore, N., **Kpodo, J.**, Kropp, I., Eeswaran, R., Belton, B. and Haque, M.M., 2021. **Harnessing Machine Learning Techniques for Mapping Aquaculture Waterbodies in Bangladesh**. Remote Sensing, 13(23), p.4890.
+7. Ferriby, H., Nejadhashemi, A.P., Hernandez-Suarez, J.S., Moore, N., **Kpodo, J.**, Kropp, I., Eeswaran, R., Belton, B. and Haque, M.M., 2021. **Harnessing Machine Learning Techniques for Mapping Aquaculture Waterbodies in Bangladesh**. Remote Sensing, 13(23), p.4890.
 
-6. Eeswaran, R., Nejadhashemi, A.P., **Kpodo, J.**, Curtis, Z.K., Adhikari, U., Liao, H., Li, S.G., Hernandez-Suarez, J.S., Alves, F.C., Raschke, A. and Jha, P.K., 2021. **Quantification of resilience metrics as affected by conservation agriculture at a watershed scale**. Agriculture, Ecosystems & Environment, 320, p.107612.
+8. Eeswaran, R., Nejadhashemi, A.P., **Kpodo, J.**, Curtis, Z.K., Adhikari, U., Liao, H., Li, S.G., Hernandez-Suarez, J.S., Alves, F.C., Raschke, A. and Jha, P.K., 2021. **Quantification of resilience metrics as affected by conservation agriculture at a watershed scale**. Agriculture, Ecosystems & Environment, 320, p.107612.
 
 
 
