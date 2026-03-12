@@ -6,7 +6,7 @@ layout: homepage
 
 I am a dual Ph.D. candidate in Computer Science  and Biosystems Engineering at Michigan State University. I am fortunate to be advised by [Dr. Pouyan Nejadhashemi](https://www.egr.msu.edu/bae/profiles/pouyan) and [Dr. Parisa Kordjamshidi](https://www.cse.msu.edu/~kordjams/).
 
-My primary research is multidisciplinary and sits at the intersection of Natural Language Processing (NLP) and process-based modeling. I design and develop neurosymbolic systems that combine domain-specific language models with deterministic crop and water models to address complex environmental challenges in water management.
+My primary research is multidisciplinary and sits at the intersection of Natural Language Processing (NLP) and process-based modeling. I design and develop neurosymbolic systems that combine domain-specific language models with deterministic crop and water models to address complex water-management challenges in agricultural Extension.
 
 I also specialize in developing [decision-making software](#decision-support-tools), both independently and for research groups, including the Decision Support & Informatics Lab, where I am currently a Research Assistant.
 
