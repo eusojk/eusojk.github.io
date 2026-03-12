@@ -6,8 +6,10 @@ layout: homepage
 
 I am a dual Ph.D. candidate in Computer Science  and Biosystems Engineering at Michigan State University. I am fortunate to be advised by [Dr. Pouyan Nejadhashemi](https://www.egr.msu.edu/bae/profiles/pouyan) and [Dr. Parisa Kordjamshidi](https://www.cse.msu.edu/~kordjams/).
 
+My primary research is multidisciplinary and sits at the intersection of Natural Language Processing (NLP) and process-based modeling. I design and develop neurosymbolic systems that combine domain-specific language models with deterministic crop and water models to address complex environmental challenges in water management.
 
-My primary research is multidisciplinary and lies at the intersection of Natural Language Processing (NLP) and Process-based Modeling, involving the design of Neurosymbolic systems (Domain-specific LLMs & Crop Models) to solve challenging agricultural problems related to water management. A major part of my research work also revolves around the development of Decision Support Tools at the [Decision Support & Informatics Lab](https://dsiweb.cse.msu.edu/).
+I also specialize in developing [decision-making software](#decision-support-tools), both independently and for research groups, including the Decision Support & Informatics Lab, where I am currently a Research Assistant.
+
 
 ## Education
 
@@ -69,13 +71,17 @@ in Agriculture 326 (2026), p. 110201. [https://doi.org/10.1016/j.compag.2026.111
 
 
 ## Decision Support Tools
-- [Saturated Buffer Decision Support Tool (link coming soon)]()
-- [Plumbing Water Quality Tool]()
-<!-- - [Plumbing Water Quality Tool](https://dsiweb.cse.msu.edu/waterquality/water-quality) -->
-- [QMRA DST]()
-<!-- - [QMRA DST](https://dsiweb.cse.msu.edu/waterquality/qmra) -->
-- [Rosetta DST]()
-<!-- - [Rosetta DST](https://dsiweb.cse.msu.edu/rosetta/) -->
-<!-- - [Drain Sedimentation Tool](https://dsiweb.cse.msu.edu/envelope/) -->
 
+### Personal open source software
+- Global Soil Explorer: [Interactive Map](https://soilmap.josuekpodo.com) · [API Docs](https://soil-query-production.up.railway.app/swagger-ui/)
+
+### At the [Decision Support & Informatics Lab](https://dsiweb.cse.msu.edu/)
+- [Saturated Buffer Decision Support Tool](https://dsiweb.cse.msu.edu/DrainToolApp/index.html)
+- [Plumbing Water Quality Tool](https://dsiweb.cse.msu.edu/waterquality/water-quality)
+- [QMRA DST](https://dsiweb.cse.msu.edu/waterquality/qmra)
+- [Rosetta DST](https://dsiweb.cse.msu.edu/rosetta/)
+- [Drain Sedimentation Tool](https://dsiweb.cse.msu.edu/envelope/)
+
+### At the AASM Labs
+- [Climate Agriculture Management Decision Tool (CAMDT)]()
 
