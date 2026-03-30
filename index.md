@@ -34,7 +34,7 @@ DRAINMOD-based decision-support tool for designing and evaluating saturated buff
 3. **Kpodo, J.**, Nejadhashemi, A. P., and Eeswaran, R. **Evaluating the logical and mathematical reasoning capabilities of language models in agricultural water management**. Computers and Electronics
 in Agriculture 326 (2026), p. 110201. [DOI](https://doi.org/10.1016/j.compag.2026.111533)
 
-4. **Kpodo, J.**, & Nejadhashemi, A. P. (2025). **Navigating challenges/opportunities in developing smart agricultural extension platforms: Multi-media data mining techniques**. Artificial Intelligence in Agriculture. [https://doi.org/10.1016/j.aiia.2025.04.001](https://doi.org/10.1016/j.aiia.2025.04.001).
+4. **Kpodo, J.**, & Nejadhashemi, A. P. (2025). **Navigating challenges/opportunities in developing smart agricultural extension platforms: Multi-media data mining techniques**. Artificial Intelligence in Agriculture. [DOI](https://doi.org/10.1016/j.aiia.2025.04.001).
 
 5. Razavi, M. A., Nejadhashemi, A. P., Majidi, B., Razavi, H. S., **Kpodo, J.**, Eeswaran, R., Ciampitti, I., & Prasad, P. V. V. (2024). **Enhancing crop yield prediction in Senegal using advanced machine learning techniques and synthetic data**. Artificial Intelligence in Agriculture, 14, 99–114. [DOI](https://doi.org/10.1016/j.aiia.2024.11.005)
 
