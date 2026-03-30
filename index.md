@@ -6,9 +6,9 @@ layout: homepage
 
 I am a dual Ph.D. candidate in Computer Science  and Biosystems Engineering at Michigan State University. I am fortunate to be advised by [Dr. Pouyan Nejadhashemi](https://www.egr.msu.edu/bae/profiles/pouyan) and [Dr. Parisa Kordjamshidi](https://www.cse.msu.edu/~kordjams/).
 
-My primary research is multidisciplinary and sits at the intersection of Natural Language Processing (NLP) and process-based modeling. I design and develop neurosymbolic systems that combine domain-specific language models with deterministic crop and water models to address complex water-management challenges in agricultural Extension.
+My primary research is multidisciplinary and sits at the intersection of Natural Language Processing (NLP) and Process-based Crop Modeling. I design and develop neurosymbolic systems that combine domain-specific language models with deterministic crop and water models to address complex agricultural water-management (AWM) challenges in agricultural Extension. In the Computational Ecohydrology Group at MSU, I am currently leading efforts in developing (1) the [DSSAT-LM](https://github.com/MSU-CECO/DSSATLM-AgNeSy) platform and (2) benchmarking state-of-the-art LLMs across several AWM tasks via [AWM-Bench](https://dsiweb.cse.msu.edu/awm-bench/).
 
-I also specialize in developing [decision-making software](#decision-support-tools), both independently and for research groups, including the Decision Support & Informatics Lab, where I am currently a Research Assistant.
+I also specialize in developing [decision-making software](#decision-support-tools), both independently and for research groups, including CECO's Decision Support & Informatics Lab, where I am a Research Assistant.
 
 
 ## Education
@@ -23,24 +23,27 @@ I also specialize in developing [decision-making software](#decision-support-too
 
 ### Peer-Reviewed Journal Articles
 
-1. Abdalaal, Y., Ghane, E., **Kpodo, J.**, Nejadhashemi, A. P., Youssef, M. A., Falasy, A., Askar, M., Katuwal, S., Johnson, G. M., Rogovska, N., and Isenhart, T. M. **Development and testing of a
-DRAINMOD-based decision-support tool for designing and evaluating saturated buffers**. In: Agricultural Water Management 326 (2026), p. 110201. [https://doi.org/10.1016/j.agwat.2026.110201](https://doi.org/10.1016/j.agwat.2026.110201)
+1. Kpodo, J., Nejadhashemi, A. P., Kordjamshidi, P., Eeswaran, R., & Dong, Y. (2026). **Closing the gap between crop simulation and practical decision-making**. In: Computers and Electronics in Agriculture, 247, 111655. 
+   * [Paper](https://doi.org/10.1016/j.compag.2026.111655) | [GitHub Repo](https://github.com/MSU-CECO/DSSATLM-AgNeSy) | [FarmPro on HuggingFace](https://huggingface.co/datasets/msu-ceco/farmpro-qa-600)
 
-2. **Kpodo, J.**, Nejadhashemi, A. P., and Eeswaran, R. **Evaluating the logical and mathematical reasoning capabilities of language models in agricultural water management**. Computers and Electronics
-in Agriculture 326 (2026), p. 110201. [https://doi.org/10.1016/j.compag.2026.111533](https://doi.org/10.1016/j.compag.2026.111533)
+2. Abdalaal, Y., Ghane, E., **Kpodo, J.**, Nejadhashemi, A. P., Youssef, M. A., Falasy, A., Askar, M., Katuwal, S., Johnson, G. M., Rogovska, N., and Isenhart, T. M. **Development and testing of a
+DRAINMOD-based decision-support tool for designing and evaluating saturated buffers**. In: Agricultural Water Management 326 (2026), p. 110201. [DOI](https://doi.org/10.1016/j.agwat.2026.110201)
 
-3. **Kpodo, J.**, & Nejadhashemi, A. P. (2025). **Navigating challenges/opportunities in developing smart agricultural extension platforms: Multi-media data mining techniques**. Artificial Intelligence in Agriculture. [https://doi.org/10.1016/j.aiia.2025.04.001](https://doi.org/10.1016/j.aiia.2025.04.001).
+3. **Kpodo, J.**, Nejadhashemi, A. P., and Eeswaran, R. **Evaluating the logical and mathematical reasoning capabilities of language models in agricultural water management**. Computers and Electronics
+in Agriculture 326 (2026), p. 110201. [DOI](https://doi.org/10.1016/j.compag.2026.111533)
 
-4. Razavi, M. A., Nejadhashemi, A. P., Majidi, B., Razavi, H. S., **Kpodo, J.**, Eeswaran, R., Ciampitti, I., & Prasad, P. V. V. (2024). **Enhancing crop yield prediction in Senegal using advanced machine learning techniques and synthetic data**. Artificial Intelligence in Agriculture, 14, 99–114. [https://doi.org/10.1016/j.aiia.2024.11.005](https://doi.org/10.1016/j.aiia.2024.11.005)
+4. **Kpodo, J.**, & Nejadhashemi, A. P. (2025). **Navigating challenges/opportunities in developing smart agricultural extension platforms: Multi-media data mining techniques**. Artificial Intelligence in Agriculture. [https://doi.org/10.1016/j.aiia.2025.04.001](https://doi.org/10.1016/j.aiia.2025.04.001).
 
-5. **Kpodo, J.**, Kordjamshidi, P., & Nejadhashemi, A. P. (2024). **AgXQA: A benchmark for advanced Agricultural Extension question answering**. Computers and Electronics in Agriculture, 225, 109349. https://doi.org/10.1016/J.COMPAG.2024.109349
+5. Razavi, M. A., Nejadhashemi, A. P., Majidi, B., Razavi, H. S., **Kpodo, J.**, Eeswaran, R., Ciampitti, I., & Prasad, P. V. V. (2024). **Enhancing crop yield prediction in Senegal using advanced machine learning techniques and synthetic data**. Artificial Intelligence in Agriculture, 14, 99–114. [DOI](https://doi.org/10.1016/j.aiia.2024.11.005)
+
+6. **Kpodo, J.**, Kordjamshidi, P., & Nejadhashemi, A. P. (2024). **AgXQA: A benchmark for advanced Agricultural Extension question answering**. Computers and Electronics in Agriculture, 225, 109349. 
    * [Paper](https://doi.org/10.1016/J.COMPAG.2024.109349) | [GitHub Repo](https://github.com/MSU-CECO/agxqa_benchmark_v1) | [AgXQAv1 HuggingFace Repo](https://huggingface.co/datasets/msu-ceco/agxqa_v1)
-6. Banda, E., Rafiei, V., **Kpodo, J.**, Nejadhashemi, A. P., Singh, G., Das, N. N., Kc, R., & Diallo, A. (2024). **Millet yield estimations in Senegal: Unveiling the power of regional water stress analysis and advanced predictive modeling**. Agricultural Water Management, 291. [https://doi.org/10.1016/j.agwat.2023.108618](https://doi.org/10.1016/j.agwat.2023.108618).
+
+7. Banda, E., Rafiei, V., **Kpodo, J.**, Nejadhashemi, A. P., Singh, G., Das, N. N., Kc, R., & Diallo, A. (2024). **Millet yield estimations in Senegal: Unveiling the power of regional water stress analysis and advanced predictive modeling**. Agricultural Water Management, 291. [DOI](https://doi.org/10.1016/j.agwat.2023.108618).
    
-7. Ferriby, H., Nejadhashemi, A.P., Hernandez-Suarez, J.S., Moore, N., **Kpodo, J.**, Kropp, I., Eeswaran, R., Belton, B. and Haque, M.M., 2021. **Harnessing Machine Learning Techniques for Mapping Aquaculture Waterbodies in Bangladesh**. Remote Sensing, 13(23), p.4890.
+8. Ferriby, H., Nejadhashemi, A.P., Hernandez-Suarez, J.S., Moore, N., **Kpodo, J.**, Kropp, I., Eeswaran, R., Belton, B. and Haque, M.M., 2021. **Harnessing Machine Learning Techniques for Mapping Aquaculture Waterbodies in Bangladesh**. Remote Sensing, 13(23), p.4890.
 
-8. Eeswaran, R., Nejadhashemi, A.P., **Kpodo, J.**, Curtis, Z.K., Adhikari, U., Liao, H., Li, S.G., Hernandez-Suarez, J.S., Alves, F.C., Raschke, A. and Jha, P.K., 2021. **Quantification of resilience metrics as affected by conservation agriculture at a watershed scale**. Agriculture, Ecosystems & Environment, 320, p.107612.
-
+9. Eeswaran, R., Nejadhashemi, A.P., **Kpodo, J.**, Curtis, Z.K., Adhikari, U., Liao, H., Li, S.G., Hernandez-Suarez, J.S., Alves, F.C., Raschke, A. and Jha, P.K., 2021. **Quantification of resilience metrics as affected by conservation agriculture at a watershed scale**. Agriculture, Ecosystems & Environment, 320, p.107612.
 
 
 ## Presentations
