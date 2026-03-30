@@ -25,7 +25,7 @@ I also specialize in developing [decision-making software](#decision-support-too
 
 ### Peer-Reviewed Journal Articles
 
-1. Kpodo, J., Nejadhashemi, A. P., Kordjamshidi, P., Eeswaran, R., & Dong, Y. (2026). **Closing the gap between crop simulation and practical decision-making**. In: Computers and Electronics in Agriculture, 247, 111655. 
+1. **Kpodo, J.**, Nejadhashemi, A. P., Kordjamshidi, P., Eeswaran, R., & Dong, Y. (2026). **Closing the gap between crop simulation and practical decision-making**. In: Computers and Electronics in Agriculture, 247, 111655. 
    * [Paper](https://doi.org/10.1016/j.compag.2026.111655) | [GitHub Repo](https://github.com/MSU-CECO/DSSATLM-AgNeSy) | [FarmPro on HuggingFace](https://huggingface.co/datasets/msu-ceco/farmpro-qa-600)
 
 2. Abdalaal, Y., Ghane, E., **Kpodo, J.**, Nejadhashemi, A. P., Youssef, M. A., Falasy, A., Askar, M., Katuwal, S., Johnson, G. M., Rogovska, N., and Isenhart, T. M. **Development and testing of a
