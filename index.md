@@ -6,7 +6,9 @@ layout: homepage
 
 I am a dual Ph.D. candidate in Computer Science  and Biosystems Engineering at Michigan State University. I am fortunate to be advised by [Dr. Pouyan Nejadhashemi](https://www.egr.msu.edu/bae/profiles/pouyan) and [Dr. Parisa Kordjamshidi](https://www.cse.msu.edu/~kordjams/).
 
-My primary research is multidisciplinary and sits at the intersection of Natural Language Processing (NLP) and Process-based Crop Modeling. I design and develop neurosymbolic systems that combine domain-specific language models with deterministic crop and water models to address complex agricultural water-management (AWM) challenges in agricultural Extension. In the Computational Ecohydrology Group at MSU, I am currently leading efforts in developing (1) the [DSSAT-LM](https://github.com/MSU-CECO/DSSATLM-AgNeSy) platform and (2) benchmarking state-of-the-art LLMs across several AWM tasks via [AWM-Bench](https://dsiweb.cse.msu.edu/awm-bench/).
+My primary research is multidisciplinary and sits at the intersection of Natural Language Processing (NLP) and Process-based Crop Modeling. I design and develop neurosymbolic systems that combine domain-specific language models with deterministic crop and water models to address complex agricultural water-management (AWM) challenges in agricultural Extension. 
+
+In the Computational Ecohydrology Group at MSU, I am currently leading efforts in developing (1) the [DSSAT-LM](https://github.com/MSU-CECO/DSSATLM-AgNeSy) platform and (2) benchmarking state-of-the-art LLMs across several AWM tasks via [AWM-Bench](https://dsiweb.cse.msu.edu/awm-bench/).
 
 I also specialize in developing [decision-making software](#decision-support-tools), both independently and for research groups, including CECO's Decision Support & Informatics Lab, where I am a Research Assistant.
 
