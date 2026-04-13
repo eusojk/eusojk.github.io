@@ -78,7 +78,7 @@ in Agriculture 326 (2026), p. 110201. [DOI](https://doi.org/10.1016/j.compag.202
 ## Decision Support Tools
 
 ### Personal open source software
-- Global Soil Explorer: [Interactive Map](https://soilmap.josuekpodo.com) · [API Docs](https://soil-query-production.up.railway.app/swagger-ui/)
+- Global Soil Explorer: [Interactive Map](https://soilmap.josuekpodo.com) · [API Docs](https://dsiweb.cse.msu.edu/soil-query-api/swagger-ui/)
 
 ### At the [Decision Support & Informatics Lab](https://dsiweb.cse.msu.edu/)
 - [Saturated Buffer Decision Support Tool](https://dsiweb.cse.msu.edu/DrainToolApp/index.html)
